@@ -1,5 +1,5 @@
 # The-little-Pi-that-could
-Pushing Rasp-Pis to create reproducible, fun, and scientific visuals.
+Pushing Rasp-Pis to create reproducible, fun, and scientific applications.
 -
 ![image](https://github.com/user-attachments/assets/ced0eb14-af74-415d-bf21-03615af04d79)
 ![image](https://github.com/user-attachments/assets/0a696b45-d8f9-4e28-9094-d24d35b86f54)
